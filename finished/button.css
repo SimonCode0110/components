@@ -1,0 +1,15 @@
+* {
+  background-color: rgb(34, 33, 33);
+}
+
+button {
+  background-color: rgb(6, 87, 6);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  width: 67px;
+  height: 27px;
+  display: block;
+  margin: auto;
+}

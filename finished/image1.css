@@ -1,0 +1,11 @@
+* {
+  background-color: rgb(34, 33, 33);
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  display: block;
+  margin: auto;
+}

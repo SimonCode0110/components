@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(34, 33, 33);
+    padding: 5vh 5vw;
+}
+
+button {
+    width: 41px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: #fff;
+    display: block;
+    margin: auto;
+}
+
+div {
+    border: none;
+    background-color: teal;
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+}

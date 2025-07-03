@@ -1,0 +1,11 @@
+* {
+  background-color: rgb(34, 33, 33);
+}
+
+img {
+  clip-path: circle(43%);
+  width: 100px;
+  display: block;
+  margin: auto;
+  object-fit: cover;
+}
